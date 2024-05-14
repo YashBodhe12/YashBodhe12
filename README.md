@@ -1,4 +1,4 @@
-**Yash Bodhe | Yash12007**
+## **Yash Bodhe | Yash12007**
 
 Welcome to the GitHub profile of Yash Bodhe, the founder and owner of Yash12007, a thriving software development company. With a passion for programming that ignited in his teenage years, Yash has mastered a multitude of programming languages, shaping him into the versatile and skilled developer he is today.
 
